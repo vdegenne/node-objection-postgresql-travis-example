@@ -1,7 +1,8 @@
 language: node_js
-node_js:
-  - "8"
-  - "9"
+matrix:
+  include:
+  - node_js: "9"
+  - node_js: "8"
 services:
   - postgresql
 addons:
