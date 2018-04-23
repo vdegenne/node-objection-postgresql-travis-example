@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/vdegenne/node-objection-postgresql-travis-example.svg?branch=master)](https://travis-ci.org/vdegenne/node-objection-postgresql-travis-example)
-
 # node-objection-postgresql-travis-example
 
 Ce projet a pour intention de montrer la structure d'une application utilisant les technologies suivantes : node, express, objection avec postgresql, et travis.
